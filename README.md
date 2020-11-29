@@ -10,7 +10,7 @@
 ## Get start
 1. Edit config.js
    change localhost uri to production environment uri
-   ```
+   ```javascript
     var searchUserUrl = 'http://localhost:8080/api/user/phone';
     var searchUserUrl = 'http://localhost:8080/api/user/phone';
     var addUserUrl = 'http://localhost:8080/api/user/add';
